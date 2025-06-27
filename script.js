@@ -11,7 +11,7 @@ async function getfood() {
 
 
     if (query === '') {
-        container.innerHTML = "Please Enter Movie Name";
+        container.innerHTML = "Please Enter Food Name";
         return;
 
     }
