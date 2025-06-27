@@ -28,7 +28,7 @@ JavaScript (Vanilla) – For dynamic content rendering and API integration.
 
 External API – Used to fetch live recipe data based on user queries.
 
-🚀 Live Demo https://coruscating-pudding-bce845.netlify.app
+🚀 Live Demo https://luxury-malasada-90fbfc.netlify.app/
 
 🧠 What I Learned
 
